@@ -9,6 +9,7 @@ The dataset contains 9,551 entries with 21 columns, including:
 • Online Delivery & Table Booking Availability
 
 🔹 Internship Task Overview
+
 🔹 Task 1: Data Exploration & Cleaning:
 • Imported essential Python libraries.
 • Loaded the dataset using pandas.
