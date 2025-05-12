@@ -98,4 +98,4 @@ The dataset contains 9,551 entries with 21 columns, including:
 • Tools Used: Python, Pandas, Matplotlib, Seaborn
 
 🔹 Let's Connect
-If you’re interested in data analytics, visualization, or project collaboration, feel free to connect with me on LinkedIn or explore more of my work on GitHub.
+If you’re interested in data analytics, visualization, or project collaboration, feel free to connect with me on Linkedin(www.linkedin.com/in/garimasingh7g) or explore more of my work on GitHub.
