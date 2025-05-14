@@ -1,4 +1,4 @@
-Cognifyz Data Analytics Internship: Cuisines & Restaurant Dataset Analysis (Python)
+### Cognifyz Data Analytics Internship: Cuisines & Restaurant Dataset Analysis (Python)
 Welcome to my internship project completed as a Data Analytics Intern at Cognifyz Technologies. Over the course of this internship, I explored a restaurant dataset to uncover insights related to cuisines, city-wise restaurant trends, ratings, cuisine combinations, and geographic distribution using Python and key data analysis libraries such as Pandas, Matplotlib, and Seaborn.
 
 📁 Dataset Overview
